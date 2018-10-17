@@ -36,7 +36,6 @@
         </a>
       </li>
       <br>
-    </ul>
     <h2>A propos du site: ce site est fait en 2018 par des enthousiastes pour faciliter la recherche des chaussures</h2>
     </ul>
   </div>
