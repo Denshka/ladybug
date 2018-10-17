@@ -44,7 +44,7 @@
 
 <script>
 export default {
-  name: 'Stuffnsneakers.ch',
+  name: 'JSGames.ch',
   data () {
     return {
       msg: 'Stuffnsneakers.ch'
@@ -57,16 +57,19 @@ export default {
 <style scoped>
 h1, h2 {
   font-weight: normal;
+  color: #636363;
 }
 ul {
   list-style-type: none;
   padding: 0;
+  color: #636363;
 }
 li {
+  background-color : #636363;
   display: inline-block;
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #636363;
 }
 </style>
